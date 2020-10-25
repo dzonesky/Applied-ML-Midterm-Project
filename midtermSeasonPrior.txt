@@ -1,5 +1,4 @@
 Rk,Team,Overall,Home,Road
-,,,,
 1,Milwaukee Bucks,60-22,33-8,27-14
 2,Toronto Raptors,58-24,32-9,26-15
 3,Golden State Warriors,57-25,30-11,27-14
