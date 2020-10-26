@@ -1,0 +1,11 @@
+Team,NumWins
+Milwaukee Bucks,56
+Toronto Raptors,53
+Golden State Warriors,15
+Denver Nuggets,46
+Houston Rockets,44
+New York Knicks,21
+Pheonix Suns,34
+Cleveland Cavaliers,19
+Chicago Bulls,22
+Atlanta Hawks,20
