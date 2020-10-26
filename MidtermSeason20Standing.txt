@@ -1,0 +1,31 @@
+Rk,Team,Home,Road
+1,Milwaukee Bucks,30,26
+2,Toronto Raptors,26,27
+3,Los Angeles Lakers,25,27
+4,Los Angeles Clippers,27,22
+5,Boston Celtics,26,22
+6,Denver Nuggets,26,20
+7,Indiana Pacers,25,20
+8,Houston Rockets,24,20
+9,Miami Heat,29,15
+10,Oklahoma City Thunder,23,21
+11,Utah Jazz,23,21
+12,Dallas Mavericks,20,23
+13,Philadelphia 76ers,31,12
+14,Brooklyn Nets,20,15
+15,Portland Trail Blazers,21,14
+16,Memphis Grizzlies,20,14
+17,Phoenix Suns,17,17
+18,Orlando Magic,18,15
+19,San Antonio Spurs,19,13
+20,Sacramento Kings,16,15
+21,New Orleans Pelicans,15,15
+22,Washington Wizards,16,9
+23,Charlotte Hornets,10,13
+24,Chicago Bulls,14,8
+25,New York Knicks,11,10
+26,Atlanta Hawks,14,6
+27,Detroit Pistons,11,9
+28,Cleveland Cavaliers,11,8
+29,Minnesota Timberwolves,8,11
+30,Golden State Warriors,8,7
