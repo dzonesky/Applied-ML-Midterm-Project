@@ -1,6 +1,6 @@
 Team,NumWins
 Milwaukee Bucks,60
-Toronto, Raptors,58
+Toronto Raptors,58
 Golden State Warriors,57
 Denver Nuggets,54
 Houston Rockets,53
